@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieList renders movies list 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-dlnjwi bsSfEf"
+      >
+        <div
+          class="sc-bdnxRM bxAvtM card"
+        >
+          <img
+            alt="Title1"
+            src="img"
+          />
+          <div
+            class="card-body"
+          >
+            <h6
+              class="card-title"
+            >
+              Title1
+            </h6>
+            <p
+              class="card-text"
+            >
+              2001
+            </p>
+            <a
+              href="/movies/123"
+            >
+              Read more
+            </a>
+          </div>
+        </div>
+        <div
+          class="sc-bdnxRM bxAvtM card"
+        >
+          <img
+            alt="Title2"
+            src="img"
+          />
+          <div
+            class="card-body"
+          >
+            <h6
+              class="card-title"
+            >
+              Title2
+            </h6>
+            <p
+              class="card-text"
+            >
+              2012
+            </p>
+            <a
+              href="/movies/124"
+            >
+              Read more
+            </a>
+          </div>
+        </div>
+      </div>
+      <nav
+        aria-label="pagination"
+        class="sc-gtsrHT gzOPjC"
+      >
+        <ul
+          class="pagination"
+        />
+      </nav>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-dlnjwi bsSfEf"
+    >
+      <div
+        class="sc-bdnxRM bxAvtM card"
+      >
+        <img
+          alt="Title1"
+          src="img"
+        />
+        <div
+          class="card-body"
+        >
+          <h6
+            class="card-title"
+          >
+            Title1
+          </h6>
+          <p
+            class="card-text"
+          >
+            2001
+          </p>
+          <a
+            href="/movies/123"
+          >
+            Read more
+          </a>
+        </div>
+      </div>
+      <div
+        class="sc-bdnxRM bxAvtM card"
+      >
+        <img
+          alt="Title2"
+          src="img"
+        />
+        <div
+          class="card-body"
+        >
+          <h6
+            class="card-title"
+          >
+            Title2
+          </h6>
+          <p
+            class="card-text"
+          >
+            2012
+          </p>
+          <a
+            href="/movies/124"
+          >
+            Read more
+          </a>
+        </div>
+      </div>
+    </div>
+    <nav
+      aria-label="pagination"
+      class="sc-gtsrHT gzOPjC"
+    >
+      <ul
+        class="pagination"
+      />
+    </nav>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
